@@ -14,7 +14,7 @@ AtliQ Hardware is a computer hardware company that is navigating the ever-evolvi
   It is a project management tool which consists of four components:<br>
   
   * Purpose - (What to do exactly)<br>
-  * Stackholder - (Who will be involved)<br>
+  * Stakeholder - (Who will be involved)<br>
   * End result - (What do you want to achieve)<br>
   * Success Criteria - (Cost optimization and time save)<br>
 * ### AIMS Grid
