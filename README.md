@@ -4,7 +4,7 @@
 * [Data Discovery](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#data-discovery)<br>
 * [Data Analysis using MySQL](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#data-analysis-using-mysql)<br>
 * [Data Cleaning and ETL](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)<br>
-* [Data Modeling](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#data-modeling)<br>
+* [Data Modelling](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#data-modeling)<br>
 * [Dashboard](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#dashboard)<br>
 * [Tools, Software and Libraries](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/edit/main/README.md#tools-software-and-libraries)<br>
 ## Problem Statement
