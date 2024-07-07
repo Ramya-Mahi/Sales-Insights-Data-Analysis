@@ -18,7 +18,7 @@ AtliQ Hardware is a computer hardware company that is navigating the ever-evolvi
   * End result - (What do you want to achieve)<br>
   * Success Criteria - (Cost optimization and time save)<br>
 * ### AIMS Grid
-  **1. Purpose** :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
+  **1. Purpose** :- To unlock sales insights that are not visible before for the sales team for decision support and automate them to reduced manual time spent in data gathering.
 
   **2. Stakeholders** :-
 
